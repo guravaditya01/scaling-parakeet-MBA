@@ -98,7 +98,7 @@
 }
 
 .nav-items li a:hover {
-    color: yellow;
+    color: rgb(255, 200, 0);;
 }
 
 .nav-items ul {
@@ -142,7 +142,7 @@
 }
 
 .nav-items ul li ul li a {
-    color: rgb(108, 108, 108);
+    color: rgb(67, 67, 67);
 }
 
 #menu-bar {
